@@ -1,6 +1,7 @@
 # illness-chest-x-ray-detection
 Data-set to detect illness on the human thorax;
-  This data set-was created by Federal Institute of Espírito Santo, from Brazil
+This data set-was created by Federal Institute of Espírito Santo, from Brazil
+
 ##Chest Disease and Healthy Chest Image Dataset
 This dataset contains chest images, classified into two main categories: pulmonary diseases and healthy chest. The images were collected to support research and machine learning model training aimed at medical diagnostics, particularly in radiology and analysis of X-ray or CT scan images.
 
@@ -19,6 +20,7 @@ This dataset was created to facilitate the training and evaluation of machine le
  - Improvement of computer-aided diagnostic systems.
    
 **How to Use**
+
 -Download the dataset.
 -Extract the contents of the compressed file.
 -Use the images in the folders as needed for your experiments, research, or machine learning model training.
