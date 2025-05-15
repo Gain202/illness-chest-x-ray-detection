@@ -13,18 +13,18 @@
 ## Lung Consolidation Datasets
 
 ## Pneumothorax Datasetss
-https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
+[^1]:https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
 
 ## Pleural_Thickening Datasets
-https://www.kaggle.com/datasets/ivanadityamaulana/chest-xray-dataset-fibrosispleural-thickening
+[^1]:https://www.kaggle.com/datasets/ivanadityamaulana/chest-xray-dataset-fibrosispleural-thickening
 
 ## Cardiomegaly Datasets 
 
-https://www.kaggle.com/datasets/rahimanshu/cardiomegaly-disease-prediction-using-cnn
-https://github.com/ngaggion/CheXmask-Database
+[^1]:https://www.kaggle.com/datasets/rahimanshu/cardiomegaly-disease-prediction-using-cnn
+[^2]:https://github.com/ngaggion/CheXmask-Database
 
 ## Lung Edema Datasets    
-https://www.kaggle.com/datasets/samiulbari/pulmonary-edema-classified-by-nih
+[^1]:https://www.kaggle.com/datasets/samiulbari/pulmonary-edema-classified-by-nih
 
 ## Emphysema Datasets
 
