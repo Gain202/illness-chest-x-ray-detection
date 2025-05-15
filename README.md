@@ -8,7 +8,7 @@ This dataset contains chest images, classified into two main categories: pulmona
 **Description**
 The dataset includes chest radiographs (X-rays) from both patients with pulmonary diseases and individuals with healthy lungs. The images are organized into two main folders, one for diseases and the other for healthy chest. Each category contains a variety of images representing different types of pulmonary conditions and normal chest anatomy variations.
   Folder 1: Pulmonary Diseases
-  Contains images of patients with various pulmonary conditions, such as pneumonia, tuberculosis, lung cancer, pulmonary fibrosis, among others.
+  Contains images of patients with various pulmonary conditions, such as pneumonia, infiltration, atelectasis, Nodule, pulmonary fibrosis, among others.
   Folder 2: Healthy Chest
   Contains images of individuals with healthy lungs, serving as a baseline for comparison with pathological conditions.
   
