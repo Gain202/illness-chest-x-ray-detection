@@ -3,6 +3,48 @@
 ## Lung Infiltration Datasets
 
 ## Lung Effusion Datasets
+https://datasetsearch.research.google.com/search?src=0&query=chest%20x-ray%20effusion&docid=L2cvMTFtNmIwNXo4MA%3D%3D
+https://datasetsearch.research.google.com/search?src=0&query=chest%20x-ray%20effusion&docid=L2cvMTF4ODZmbjdmbg%3D%3D
+https://datasetsearch.research.google.com/search?src=0&query=chest%20x-ray%20effusion&docid=L2cvMTF4MWRmN3R0aw%3D%3D
+https://datasetsearch.research.google.com/search?src=0&query=chest%20x-ray%20effusion&docid=L2cvMTFtNmg4MmR0Zw%3D%3D
+https://datasetsearch.research.google.com/search?src=0&query=chest%20x-ray%20effusion&docid=L2cvMTFsdHhxMjRkbQ%3D%3D
+https://datasetsearch.research.google.com/search?src=0&query=chest%20x-ray%20effusion&docid=L2cvMTF4NXR2NXI5NQ%3D%3D
+https://datasetsearch.research.google.com/search?src=0&query=chest%20x-ray%20effusion&docid=L2cvMTF2Y2w2cnRidw%3D%3D
+https://datasetsearch.research.google.com/search?src=0&query=chest%20x-ray%20effusion&docid=L2cvMTF3dHdwMGR4eg%3D%3D
+https://datasetsearch.research.google.com/search?src=0&query=chest%20x-ray%20effusion&docid=L2cvMTFzaHd2MjA2Yw%3D%3D
+https://datasetsearch.research.google.com/search?src=0&query=chest%20x-ray%20effusion&docid=L2cvMTFsdjg5YzA1eg%3D%3D
+https://datasetsearch.research.google.com/search?src=0&query=chest%20x-ray%20pneumothorax&docid=L2cvMTFtNmg4MmR0Zw%3D%3D
+https://datasetsearch.research.google.com/search?src=0&query=chest%20x-ray%20pneumothorax&docid=L2cvMTF5ODNfbTBiXw%3D%3D
+
+## Pneumothorax Datasetss
+-https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
+https://datasetsearch.research.google.com/search?src=0&query=chest%20x-ray%20effusion&docid=L2cvMTF4MWRmN3R0aw%3D%3D
+https://datasetsearch.research.google.com/search?src=0&query=chest%20x-ray%20effusion&docid=L2cvMTFtNmg4MmR0Zw%3D%3D
+https://datasetsearch.research.google.com/search?src=0&query=chest%20x-ray%20effusion&docid=L2cvMTFsdHhxMjRkbQ%3D%3D
+https://datasetsearch.research.google.com/search?src=0&query=chest%20x-ray%20effusion&docid=L2cvMTF4NXR2NXI5NQ%3D%3D
+https://datasetsearch.research.google.com/search?src=0&query=chest%20x-ray%20effusion&docid=L2cvMTF2Y2w2cnRidw%3D%3D
+https://datasetsearch.research.google.com/search?src=0&query=chest%20x-ray%20effusion&docid=L2cvMTF3dHdwMGR4eg%3D%3D
+https://datasetsearch.research.google.com/search?src=0&query=chest%20x-ray%20pneumothorax&docid=L2cvMTF5NDRwOXpxdw%3D%3D
+https://datasetsearch.research.google.com/search?src=0&query=chest%20x-ray%20pneumothorax&docid=L2cvMTFybjUzbmJjcQ%3D%3D
+https://datasetsearch.research.google.com/search?src=0&query=chest%20x-ray%20pneumothorax&docid=L2cvMTFsNl8xbGdqZw%3D%3D
+https://datasetsearch.research.google.com/search?src=0&query=chest%20x-ray%20pneumothorax&docid=L2cvMTF4N3p4d2hqdw%3D%3D
+https://datasetsearch.research.google.com/search?src=0&query=chest%20x-ray%20pneumothorax&docid=L2cvMTF4MWRmN3R0aw%3D%3D
+https://datasetsearch.research.google.com/search?src=0&query=chest%20x-ray%20pneumothorax&docid=L2cvMTFtNmg4MmR0Zw%3D%3D
+https://datasetsearch.research.google.com/search?src=0&query=chest%20x-ray%20pneumothorax&docid=L2cvMTFsMjg1XzI0Zg%3D%3D
+https://datasetsearch.research.google.com/search?src=0&query=chest%20x-ray%20pneumothorax&docid=L2cvMTF3aGh4NnNxOQ%3D%3D
+https://datasetsearch.research.google.com/search?src=0&query=chest%20x-ray%20pneumothorax&docid=L2cvMTF3eGJodjJobQ%3D%3D
+https://datasetsearch.research.google.com/search?src=0&query=chest%20x-ray%20pneumothorax&docid=L2cvMTF3N25fbDdwbg%3D%3D
+https://datasetsearch.research.google.com/search?src=0&query=chest%20x-ray%20pneumothorax&docid=L2cvMTF5ODNfbTBiXw%3D%3D
+
+## Pneumonia Datasets
+https://datasetsearch.research.google.com/search?src=0&query=chest%20x-ray%20effusion&docid=L2cvMTF4ODZmbjdmbg%3D%3D
+https://datasetsearch.research.google.com/search?src=0&query=chest%20x-ray%20effusion&docid=L2cvMTFtNmg4MmR0Zw%3D%3D
+https://datasetsearch.research.google.com/search?src=0&query=chest%20x-ray%20effusion&docid=L2cvMTFsdHhxMjRkbQ%3D%3D
+https://datasetsearch.research.google.com/search?src=0&query=chest%20x-ray%20effusion&docid=L2cvMTF4NXR2NXI5NQ%3D%3D
+https://datasetsearch.research.google.com/search?src=0&query=chest%20x-ray%20effusion&docid=L2cvMTF2Y2w2cnRidw%3D%3D
+https://datasetsearch.research.google.com/search?src=0&query=chest%20x-ray%20pneumothorax&docid=L2cvMTFtNmg4MmR0Zw%3D%3D
+https://datasetsearch.research.google.com/search?src=0&query=chest%20x-ray%20pneumothorax&docid=L2cvMTF3aGh4NnNxOQ%3D%3D
+https://datasetsearch.research.google.com/search?src=0&query=chest%20x-ray%20pneumothorax&docid=L2cvMTF5ODNfbTBiXw%3D%3D
 
 ## Atelectasis Datasets   
 
@@ -11,9 +53,6 @@
 ## Lung Mass Datasets
 
 ## Lung Consolidation Datasets
-
-## Pneumothorax Datasetss
--https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
 
 ## Pleural_Thickening Datasets
 -https://www.kaggle.com/datasets/ivanadityamaulana/chest-xray-dataset-fibrosispleural-thickening
@@ -29,8 +68,6 @@
 ## Emphysema Datasets
 
 ## Lung Fibrosis Datasets
-
-## Pneumonia Datasets
 
 ## Lung Hernia Datasets
 
