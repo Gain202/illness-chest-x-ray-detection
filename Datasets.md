@@ -45,6 +45,22 @@ https://datasetsearch.research.google.com/search?src=0&query=chest%20x-ray%20eff
 https://datasetsearch.research.google.com/search?src=0&query=chest%20x-ray%20pneumothorax&docid=L2cvMTFtNmg4MmR0Zw%3D%3D
 https://datasetsearch.research.google.com/search?src=0&query=chest%20x-ray%20pneumothorax&docid=L2cvMTF3aGh4NnNxOQ%3D%3D
 https://datasetsearch.research.google.com/search?src=0&query=chest%20x-ray%20pneumothorax&docid=L2cvMTF5ODNfbTBiXw%3D%3D
+https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
+https://www.kaggle.com/datasets/pcbreviglieri/pneumonia-xray-images
+https://www.kaggle.com/datasets/andrewmvd/pediatric-pneumonia-chest-xray
+https://www.kaggle.com/datasets/jtiptj/chest-xray-pneumoniacovid19tuberculosis
+https://www.kaggle.com/datasets/prashant268/chest-xray-covid19-pneumonia
+https://www.kaggle.com/datasets/tawsifurrahman/covid19-radiography-database
+https://www.kaggle.com/datasets/sachinkumar413/covid-pneumonia-normal-chest-xray-images
+https://www.kaggle.com/datasets/praveengovi/coronahack-chest-xraydataset
+https://www.kaggle.com/datasets/parthachakraborty/pneumonia-chest-x-ray
+https://www.kaggle.com/datasets/ahmedhaytham/chest-xray-images-pneumonia-with-new-class
+https://www.kaggle.com/datasets/rashikrahmanpritom/covid-wwo-pneumonia-chest-xray
+https://www.kaggle.com/datasets/fatemehmehrparvar/lung-disease
+https://www.kaggle.com/datasets/alifrahman/chestxraydataset
+https://www.kaggle.com/datasets/pritpal2873/chest-x-ray-dataset-4-categories
+https://www.kaggle.com/datasets/artyomkolas/3-kinds-of-pneumonia
+https://www.kaggle.com/datasets/assemelqirsh/chest-x-ray-dataset
 
 ## Atelectasis Datasets   
 
