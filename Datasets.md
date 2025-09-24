@@ -36,7 +36,7 @@ https://datasetsearch.research.google.com/search?src=0&query=chest%20x-ray%20pne
 https://datasetsearch.research.google.com/search?src=0&query=chest%20x-ray%20pneumothorax&docid=L2cvMTF3N25fbDdwbg%3D%3D
 https://datasetsearch.research.google.com/search?src=0&query=chest%20x-ray%20pneumothorax&docid=L2cvMTF5ODNfbTBiXw%3D%3D
 
-## Pneumonia Datasets
+## Viral Pneumonia, Bacterial Pneumonia, Covid and Tuberculosis Datasets
 https://datasetsearch.research.google.com/search?src=0&query=chest%20x-ray%20effusion&docid=L2cvMTF4ODZmbjdmbg%3D%3D
 https://datasetsearch.research.google.com/search?src=0&query=chest%20x-ray%20effusion&docid=L2cvMTFtNmg4MmR0Zw%3D%3D
 https://datasetsearch.research.google.com/search?src=0&query=chest%20x-ray%20effusion&docid=L2cvMTFsdHhxMjRkbQ%3D%3D
@@ -61,6 +61,13 @@ https://www.kaggle.com/datasets/alifrahman/chestxraydataset
 https://www.kaggle.com/datasets/pritpal2873/chest-x-ray-dataset-4-categories
 https://www.kaggle.com/datasets/artyomkolas/3-kinds-of-pneumonia
 https://www.kaggle.com/datasets/assemelqirsh/chest-x-ray-dataset
+
+https://www.kaggle.com/darshan1504/covid19-detection-xray-dataset
+https://www.kaggle.com/muhammadrizkyperdana/lungs-dataset
+https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
+https://www.kaggle.com/jtiptj/chest-xray-pneumoniacovid19tuberculosis?select=train
+https://www.kaggle.com/iamsuyogjadhav/chest-x-ray-14-lungs-cropped
+https://www.kaggle.com/tawsifurrahman/tuberculosis-tb-chest-xray-dataset
 
 ## Atelectasis Datasets   
 
